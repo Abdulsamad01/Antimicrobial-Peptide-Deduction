@@ -152,14 +152,6 @@ Feel free to fork this repository, submit pull requests, or create issues for:
 
 ---
 
-## 📬 Contact
-
-**Author:** Abdulsamad  
-**Email:** [your-email@example.com]  
-**GitHub:** [https://github.com/Abdulsamad01](https://github.com/Abdulsamad01)
-
----
-
 ## 📄 License
 
 This project is licensed under the [MIT License](LICENSE).
